@@ -1,5 +1,5 @@
 # hello-world
-# This is a header. It is created with the power of hashtag.
+## This is a header. It is created with the power of hashtag. Two hashtags doubles the power.
 My very first repository.
 
 This is my first commit.

@@ -8,3 +8,6 @@ All rights reserved
 x = input("What is your name?")
 
 print(x)
+
+y = input("What is your age?")
+print(y)

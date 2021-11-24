@@ -9,5 +9,8 @@ x = input("What is your name?")
 
 print(x)
 
+
 y = input("What is your age?")
 print(y)
+
+print("All Quiet on the Western Front")
